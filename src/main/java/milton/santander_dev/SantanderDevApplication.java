@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SantanderDevApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SantanderDevApplication.class, args);
 	}
 
